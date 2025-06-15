@@ -1,0 +1,753 @@
+[
+  // bioshock infinite
+  // the wolf among us
+  // persona 5
+  // life is strange original
+  // https://mechanicsvoiceover.ru/library
+  // https://tolma4team.com/ (ну эти типа офицалы)
+  // https://www.gamesvoice.ru/
+  // https://cool-games.info/rus
+  // "options": [{
+  //   "type": "chooseOne",
+  //   "items": [
+  //     "Локализация звука для Vanishing of Ethan Carter",
+  //     "Локализация звука для Vanishing of Ethan Carter Redux",
+  //     "Локализация звука для Vanishing of Ethan Carter Redux VR"
+  //   ]
+  // }],
+  // Учесть что статус установленной озвучки может быть
+  // development released outdated
+  // Надо понимать, что после перечитывания файлов или обновления, возможно что озвучка сломается, и ее надо будет переустановить
+  // Также озвучка может выйти новой версии, к бд это отношения не имеет
+  // Имя файла должно быть
+  // steamId-vendor-version.zip
+  
+  
+  // start of announced
+  {
+    "pageId": "hades",
+    "status": "announced",
+    "storeSize": "",
+    "translationLinks": [],
+    "title": "Hades",
+    "translationPage": "https://www.gamesvoice.ru/hades",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": ""
+  },
+  {
+    "pageId": "expedition33",
+    "status": "announced",
+    "storeSize": "",
+    "translationLinks": [],
+    "title": "Clair Obscur: Expedition 33",
+    "translationPage": "https://www.gamesvoice.ru/expedition33",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": ""
+  },
+  {
+    "pageId": "gtasa",
+    "status": "announced",
+    "storeSize": "",
+    "translationLinks": [],
+    "title": "ГэТэА: Сань Андрэас",
+    "translationPage": "https://www.gamesvoice.ru/gtasa",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": ""
+  },
+  {
+    "pageId": "silenthill2",
+    "status": "announced",
+    "storeSize": "",
+    "title": "Silent Hill 2",
+    "translationLinks": [],
+    "translationPage": "https://www.gamesvoice.ru/silenthill2",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": ""
+  },
+  //  end of announced
+
+
+  {
+    "pageId": "ethancarter",
+    "status": "released",
+    "steamId": "258520",
+    "storeSize": "25mb",
+    "title": "The Vanishing of Ethan Carter",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/xlAjl8aNAlfUQw",
+      "https://drive.google.com/file/d/1DY0oyj0hktI38_djezbs25XyV9mEKTRw/view",
+      "https://mega.nz/file/sEoEXApa#WMhEnnSYkOGgx1bmFoJujG8UPBRW_cqk4q_t6Myl84s"
+    ],
+    "translationPage": "https://www.gamesvoice.ru/ethancarter",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "version": "1.0"
+  },
+  {
+    "pageId": "ethancarterredux",
+    "status": "released",
+    "steamId": "400430",
+    "storeSize": "25mb",
+    "title": "The Vanishing of Ethan Carter Redux",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/xlAjl8aNAlfUQw",
+      "https://drive.google.com/file/d/1DY0oyj0hktI38_djezbs25XyV9mEKTRw/view",
+      "https://mega.nz/file/sEoEXApa#WMhEnnSYkOGgx1bmFoJujG8UPBRW_cqk4q_t6Myl84s"
+    ],
+    "translationPage": "https://www.gamesvoice.ru/ethancarterredux",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "ittakestwo",
+    "status": "released",
+    "steamId": "1426210",
+    "storeSize": "25mb", // FIXME
+    "title": "It Takes Two",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/4MUgfNVFk8YrYQ",
+      "https://drive.google.com/file/d/17VVJ3cdIFuGX1Z8VjAt2EEnybvopWd5n/view",
+      "https://cloud.mail.ru/public/puER/ZruK1xP1S"
+    ],
+    "translationPage": "https://www.gamesvoice.ru/ittakestwo",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "silenthill3",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Silent Hill 3",
+    "translationPage": "https://www.gamesvoice.ru/silenthill3",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "soma",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "SOMA",
+    "translationPage": "https://www.gamesvoice.ru/soma",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "blackmesa",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Black Mesa",
+    "translationPage": "https://www.gamesvoice.ru/blackmesa",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "residentevilhd",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Resident Evil HD Remaster",
+    "translationPage": "https://www.gamesvoice.ru/residentevilhd",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "alanwake",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Alan Wake",
+    "translationPage": "https://www.gamesvoice.ru/alanwake",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "alanwake2",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Alan Wake II",
+    "translationPage": "https://www.gamesvoice.ru/alanwake2",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "swsurvivor",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Star Wars Jedi: Survivor",
+    "translationPage": "https://www.gamesvoice.ru/swsurvivor",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "gtasa",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Ghand Thent Audo: San Andheas",
+    "translationPage": "https://www.gamesvoice.ru/gtasa",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "panzercorps",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Panzer Corps",
+    "translationPage": "https://www.gamesvoice.ru/panzercorps",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "neuland",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Risen: Neuland",
+    "translationPage": "https://www.gamesvoice.ru/neuland",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "agony",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Agony",
+    "translationPage": "https://www.gamesvoice.ru/agony",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "decaythemare",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Decay: The Mare",
+    "translationPage": "https://www.gamesvoice.ru/decaythemare",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "americannightmare",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Alan Wake’s American Nightmare",
+    "translationPage": "https://www.gamesvoice.ru/americannightmare",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "arizonasunshine",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Arizona Sunshine Remake",
+    "translationPage": "https://www.gamesvoice.ru/arizonasunshine",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "planeta",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Lifeless Planet",
+    "translationPage": "https://www.gamesvoice.ru/planeta",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "daylight",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Daylight",
+    "translationPage": "https://www.gamesvoice.ru/daylight",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "rev2",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Resident Evil: Revelations 2",
+    "translationPage": "https://www.gamesvoice.ru/rev2",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "codexofvictory",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Codex of Victory",
+    "translationPage": "https://www.gamesvoice.ru/codexofvictory",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "leviathan",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "The Old City: Leviathan",
+    "translationPage": "https://www.gamesvoice.ru/leviathan",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "tomb-raider-remastered2",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Tomb Raider IV-VI Remastered",
+    "translationPage": "https://www.gamesvoice.ru/tomb-raider-remastered2",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "belowzero",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Subnautica: Below Zero",
+    "translationPage": "https://www.gamesvoice.ru/belowzero",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "transistor",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Transistor",
+    "translationPage": "https://www.gamesvoice.ru/transistor",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "risen3",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Risen 3: Titan Lords",
+    "translationPage": "https://www.gamesvoice.ru/risen3",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "alyx",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Half-Life: Alyx",
+    "translationPage": "https://www.gamesvoice.ru/alyx",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "traceryoffate",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Tracery of Fate",
+    "translationPage": "https://www.gamesvoice.ru/traceryoffate",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "ionfury",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Ion Fury: Aftershock",
+    "translationPage": "https://www.gamesvoice.ru/ionfury",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "observer",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Observer",
+    "translationPage": "https://www.gamesvoice.ru/observer",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "bulletstorm",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Bulletstorm",
+    "translationPage": "https://www.gamesvoice.ru/bulletstorm",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "dearesther",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Dear Esther",
+    "translationPage": "https://www.gamesvoice.ru/dearesther",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "redeemer",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Redeemer: Enhanced Edition",
+    "translationPage": "https://www.gamesvoice.ru/redeemer",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "ghostrunner",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Ghostrunner",
+    "translationPage": "https://www.gamesvoice.ru/ghostrunner",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "closetothesun",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Close to the Sun",
+    "translationPage": "https://www.gamesvoice.ru/closetothesun",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "madriders",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Mad Riders",
+    "translationPage": "https://www.gamesvoice.ru/madriders",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "raft",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Raft",
+    "translationPage": "https://www.gamesvoice.ru/raft",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "heavyfire",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Heavy Fire: Shattered Spear",
+    "translationPage": "https://www.gamesvoice.ru/heavyfire",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "madison",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "MADiSON",
+    "translationPage": "https://www.gamesvoice.ru/madison",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "herstoryvhs",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Her Story",
+    "translationPage": "https://www.gamesvoice.ru/herstoryvhs",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "subnautica",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Subnautica",
+    "translationPage": "https://www.gamesvoice.ru/subnautica",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "re3",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Resident Evil 3",
+    "translationPage": "https://www.gamesvoice.ru/re3",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "immortalhunters",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Immortal Hunters",
+    "translationPage": "https://www.gamesvoice.ru/immortalhunters",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "voidtrain",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "VoidTrain",
+    "translationPage": "https://www.gamesvoice.ru/voidtrain",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "madison",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "MADiSON",
+    "translationPage": "https://www.gamesvoice.ru/madison",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "herstoryvhs",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Her Story",
+    "translationPage": "https://www.gamesvoice.ru/herstoryvhs",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "subnautica",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Subnautica",
+    "translationPage": "https://www.gamesvoice.ru/subnautica",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "re3",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Resident Evil 3",
+    "translationPage": "https://www.gamesvoice.ru/re3",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "immortalhunters",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Immortal Hunters",
+    "translationPage": "https://www.gamesvoice.ru/immortalhunters",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "voidtrain",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "VoidTrain",
+    "translationPage": "https://www.gamesvoice.ru/voidtrain",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  }
+]
