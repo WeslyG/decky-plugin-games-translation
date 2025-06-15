@@ -21,15 +21,13 @@
   // Также озвучка может выйти новой версии, к бд это отношения не имеет
   // Имя файла должно быть
   // steamId-vendor-version.zip
-  
-  
   // start of announced
   {
     "pageId": "hades",
     "status": "announced",
     "storeSize": "",
-    "translationLinks": [],
     "title": "Hades",
+    "translationLinks": [],
     "translationPage": "https://www.gamesvoice.ru/hades",
     "translationTypes": [
       "text",
@@ -42,8 +40,8 @@
     "pageId": "expedition33",
     "status": "announced",
     "storeSize": "",
-    "translationLinks": [],
     "title": "Clair Obscur: Expedition 33",
+    "translationLinks": [],
     "translationPage": "https://www.gamesvoice.ru/expedition33",
     "translationTypes": [
       "text",
@@ -56,8 +54,8 @@
     "pageId": "gtasa",
     "status": "announced",
     "storeSize": "",
-    "translationLinks": [],
     "title": "ГэТэА: Сань Андрэас",
+    "translationLinks": [],
     "translationPage": "https://www.gamesvoice.ru/gtasa",
     "translationTypes": [
       "text",
@@ -81,8 +79,6 @@
     "version": ""
   },
   //  end of announced
-
-
   {
     "pageId": "ethancarter",
     "status": "released",
@@ -124,7 +120,7 @@
     "pageId": "ittakestwo",
     "status": "released",
     "steamId": "1426210",
-    "storeSize": "25mb", // FIXME
+    "storeSize": "700mb",
     "title": "It Takes Two",
     "translationLinks": [
       "https://disk.yandex.ru/d/4MUgfNVFk8YrYQ",
@@ -138,6 +134,62 @@
     ],
     "vendor": "gamesvoice",
     "version": "1.0"
+  },
+  {
+    "pageId": "gtavice",
+    "status": "released",
+    "steamId": "1546990",
+    "storeSize": "4gb",
+    "title": "Grand Theft Auto: Vice City",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/FXgOSJ8POc-5Tw",
+      "https://drive.google.com/file/d/1wEedRvu6WlVUyGPNLdGU64kKfRQFCWY5/view",
+      "https://cloud.mail.ru/public/h4gN/UChBm8mRB"
+    ],
+    "translationPage": "https://www.gamesvoice.ru/gtavice",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "version": "1.0"
+  },
+  {
+    "pageId": "innocence",
+    "status": "released",
+    "steamId": "752590",
+    "storeSize": "2gb",
+    "title": "A Plague Tale: Innocence",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/Wgd3-4sQ_wTEcA",
+      "https://drive.google.com/file/d/1DNtC1cML4Af3nKbW79oijJEkecHRML54/view",
+      "https://cloud.mail.ru/public/179L/4P8wh8V2v"
+    ],
+    "translationPage": "https://www.gamesvoice.ru/innocence",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "version": "1.0"
+  },
+  {
+    "pageId": "hogwartslegacy",
+    "status": "released",
+    "steamId": "990080",
+    "storeSize": "4gb",
+    "title": "Хогвартс. Наследие",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/ifyjxpXZbOTlBg",
+      "https://drive.google.com/file/d/1JGb1L9Q9GqUD61y6z-0eMw_ZgtP5p9u5/view",
+      "https://cloud.mail.ru/public/g6hr/NBSuUqrmD"
+    ],
+    "translationPage": "https://www.gamesvoice.ru/hogwartslegacy",
+    "translationTypes": [
+      "text",
+      "audio",
+      "textures"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.3"
   },
   {
     "pageId": "silenthill3",
@@ -168,8 +220,14 @@
   {
     "pageId": "blackmesa",
     "status": "released",
-    "storeSize": "25mb",
+    "steamId": "362890",
+    "storeSize": "800mb",
     "title": "Black Mesa",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/Rbs-hUi9bopLrA",
+      "https://cloud.mail.ru/public/aaV6/dHiNKm2LU",
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=600910999"
+    ],
     "translationPage": "https://www.gamesvoice.ru/blackmesa",
     "translationTypes": [
       "text",
@@ -204,38 +262,70 @@
     "vendor": "gamesvoice",
     "version": "1.0"
   },
-  {
-    "pageId": "alanwake2",
-    "status": "released",
-    "storeSize": "25mb",
-    "title": "Alan Wake II",
-    "translationPage": "https://www.gamesvoice.ru/alanwake2",
-    "translationTypes": [
-      "text",
-      "audio"
-    ],
-    "vendor": "gamesvoice",
-    "version": "1.0"
-  },
+  // NOTICE: non steam
+  // {
+  //   "pageId": "alanwake2",
+  //   "status": "released",
+  //   "storeSize": "25mb",
+  //   "title": "Alan Wake II",
+  //   "translationPage": "https://www.gamesvoice.ru/alanwake2",
+  //   "translationTypes": [
+  //     "text",
+  //     "audio"
+  //   ],
+  //   "vendor": "gamesvoice",
+  //   "version": "1.0"
+  // },
   {
     "pageId": "swsurvivor",
     "status": "released",
+    "steamId": "1774580",
     "storeSize": "25mb",
     "title": "Star Wars Jedi: Survivor",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/ZFKBJ-RmiEoEEw",
+      "https://drive.google.com/drive/folders/1lmM_AXbWjG3aVY89Rf6LYRVIQWPSxB63",
+      "https://cloud.mail.ru/public/ta7A/5wtoj5sXL"
+    ],
     "translationPage": "https://www.gamesvoice.ru/swsurvivor",
     "translationTypes": [
       "text",
       "audio"
     ],
     "vendor": "gamesvoice",
+    "version": "1.2"
+  },
+  {
+    "pageId": "hellblade",
+    "status": "released",
+    "steamId": "414340",
+    "storeSize": "1.3gb",
+    "title": "Hellblade: Senua's Sacrifice",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/p_6tZdxxx9bjsg",
+      "https://drive.google.com/file/d/1KIPxqzOFKyeR7TcMU6E1IMrM_TM4oAYR/view",
+      "https://mega.nz/file/SQQXmaYJ#cp6ETBeiXkDUfeGXU308AEB4bxoP-my6i7oKuKtBJKw"
+    ],
+    "translationPage": "https://www.gamesvoice.ru/hellblade",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
     "version": "1.0"
   },
   {
-    "pageId": "gtasa",
+    "pageId": "deadspace",
     "status": "released",
-    "storeSize": "25mb",
-    "title": "Ghand Thent Audo: San Andheas",
-    "translationPage": "https://www.gamesvoice.ru/gtasa",
+    "steamId": "1693980",
+    "storeSize": "",
+    "title": "Dead Space Remake",
+    "translationLinks": [
+      "https://cloud.mail.ru/public/nEx7/4BWpVPcXB",
+      "https://drive.google.com/file/d/1-isGELwQgyd81Eo_zy6dED4ttt2SUFVP/view",
+      "https://disk.yandex.ru/d/NFnbk40A_onWGw"
+    ],
+    "translationPage": "https://www.gamesvoice.ru/deadspace",
     "translationTypes": [
       "text",
       "audio"
@@ -311,8 +401,14 @@
   {
     "pageId": "arizonasunshine",
     "status": "released",
-    "storeSize": "25mb",
+    "steamId": "2897700",
+    "storeSize": "110mb",
     "title": "Arizona Sunshine Remake",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/UnqBxqUKIZ4Yhg",
+      "https://drive.google.com/file/d/1Nwn5NXJNnWHOTh1Q6QDb4npOiZvTy6Aj/view",
+      "https://cloud.mail.ru/public/4Xc4/WXJyCqSWh"
+    ],
     "translationPage": "https://www.gamesvoice.ru/arizonasunshine",
     "translationTypes": [
       "text",
@@ -379,19 +475,6 @@
     "storeSize": "25mb",
     "title": "The Old City: Leviathan",
     "translationPage": "https://www.gamesvoice.ru/leviathan",
-    "translationTypes": [
-      "text",
-      "audio"
-    ],
-    "vendor": "gamesvoice",
-    "version": "1.0"
-  },
-  {
-    "pageId": "tomb-raider-remastered2",
-    "status": "released",
-    "storeSize": "25mb",
-    "title": "Tomb Raider IV-VI Remastered",
-    "translationPage": "https://www.gamesvoice.ru/tomb-raider-remastered2",
     "translationTypes": [
       "text",
       "audio"
@@ -467,8 +550,14 @@
   {
     "pageId": "ionfury",
     "status": "released",
-    "storeSize": "25mb",
+    "steamId": "562860",
+    "storeSize": "50mb",
     "title": "Ion Fury: Aftershock",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/f7WByGRl3HPwew",
+      "https://drive.google.com/drive/folders/1QOagPWqni_LtFYRcrC3tAoOd3GbdO4XQ",
+      "https://mega.nz/folder/3N4ESQbQ#PRNLPy5TSVnMflfsqCljhw"
+    ],
     "translationPage": "https://www.gamesvoice.ru/ionfury",
     "translationTypes": [
       "text",
@@ -545,8 +634,14 @@
   {
     "pageId": "closetothesun",
     "status": "released",
-    "storeSize": "25mb",
+    "steamId": "968870",
+    "storeSize": "161mb",
     "title": "Close to the Sun",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/WVVtoUjFj1yvbQ",
+      "https://drive.google.com/file/d/1kLPsa2YPsq_w9aHdvciHrn81-JTfCkqt/view",
+      "https://mega.nz/file/vRQCTKDT#zp0121X_L2znyCPcvrmI52W-I0Vt7dYChNQoX2H-uCk"
+    ],
     "translationPage": "https://www.gamesvoice.ru/closetothesun",
     "translationTypes": [
       "text",
