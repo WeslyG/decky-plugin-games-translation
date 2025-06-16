@@ -172,6 +172,24 @@
     "version": "1.0"
   },
   {
+    "pageId": "requiem",
+    "status": "released",
+    "steamId": "1182900",
+    "storeSize": "3.3gb",
+    "title": "A Plague Tale: Requiem",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/ERvW6_P7Mzdl-Q",
+      "https://drive.google.com/drive/folders/1wlbV7iPFkbG22Hl7-t6h4lRUyBLziDQq",
+      "https://cloud.mail.ru/public/WdcB/LbmZW1zWU"
+    ],
+    "translationPage": "https://www.gamesvoice.ru/requiem",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "version": "1.2"
+  },
+  {
     "pageId": "hogwartslegacy",
     "status": "released",
     "steamId": "990080",
@@ -191,19 +209,25 @@
     "vendor": "gamesvoice",
     "version": "1.3"
   },
-  {
-    "pageId": "silenthill3",
-    "status": "released",
-    "storeSize": "25mb",
-    "title": "Silent Hill 3",
-    "translationPage": "https://www.gamesvoice.ru/silenthill3",
-    "translationTypes": [
-      "text",
-      "audio"
-    ],
-    "vendor": "gamesvoice",
-    "version": "1.0"
-  },
+  // NON STEAM
+  // {
+  //   "pageId": "silenthill3",
+  //   "status": "released",
+  //   "storeSize": "25mb",
+  //   "steamId": "NOT_FOUND",
+  //   "title": "Silent Hill 3",
+  //   "translationPage": "https://www.gamesvoice.ru/silenthill3",
+  //   "translationLinks": [
+  //     "https://disk.yandex.ru/d/9Wdrm-nWpklnhQ",
+  //     "https://mega.nz/file/3dpRQAST#ufSBtby4fYRwCsn8UEyhbJdWvb_iqaEycOXIQKSfcVo"
+  //   ],
+  //   "translationTypes": [
+  //     "text",
+  //     "audio"
+  //   ],
+  //   "vendor": "gamesvoice",
+  //   "version": "1.0"
+  // },
   {
     "pageId": "soma",
     "status": "released",
@@ -522,11 +546,36 @@
     "version": "1.0"
   },
   {
+    "pageId": "iamalive",
+    "status": "released",
+    "storeSize": "500mb",
+    "steamId": "214250",
+    "title": "I am Alive",
+    "translationPage": "https://www.gamesvoice.ru/iamalive",
+    "translationLinks" :[
+      "https://disk.yandex.ru/d/V-l-piEOTCWcew",
+      "https://drive.google.com/file/d/1rjW9IMEnn8IT8gAu51fB3GTFMdBQP72Y/view",
+      "https://mega.nz/file/eUwHEKrT#qiWeVKalIdbagAS9Hp3TF6Cw9PuWxXUVWhd-zD9tGHE"
+    ],
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
     "pageId": "alyx",
     "status": "released",
-    "storeSize": "25mb",
+    "steamId": "546560",
+    "storeSize": "600mb",
     "title": "Half-Life: Alyx",
     "translationPage": "https://www.gamesvoice.ru/alyx",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/5lZFgJqI_fXM4g",
+      "https://mega.nz/file/CAQ0iATL#h8d8dpJCqql8CaE4fv6yk9qcbsvniyjfWsEdUDPKTEI",
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2979959298"
+    ],
     "translationTypes": [
       "text",
       "audio"
@@ -569,9 +618,15 @@
   {
     "pageId": "observer",
     "status": "released",
-    "storeSize": "25mb",
+    "steamId": "1386900",
+    "storeSize": "1.8gb",
     "title": "Observer",
     "translationPage": "https://www.gamesvoice.ru/observer",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/ryRgIHvgt2He1A",
+      "https://drive.google.com/file/d/12-SBO3UipzxKip9rUu0iMelrNEE3_uyR/view",
+      "https://mega.nz/file/eY4EQTrA#rnUnlaxaD_vKEqDDFVX96LSxYq4GyGCPZ7_EDv9wmgE"
+    ],
     "translationTypes": [
       "text",
       "audio"
@@ -591,6 +646,26 @@
     ],
     "vendor": "gamesvoice",
     "version": "1.0"
+  },
+  {
+    "pageId": "darkestdungeon",
+    "status": "released",
+    "storeSize": "700mb",
+    "steamId": "262060",
+    "title": "Darkest Dungeon",
+    "translationPage": "https://www.gamesvoice.ru/darkestdungeon",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/xnc18EFn3aMknh",
+      "https://drive.google.com/drive/folders/1qXjerPFhvwItURe4sSuGkpil9pZXBG_J",
+      "https://cloud.mail.ru/public/CEBD/7Fe7Yn6UK"
+    ],
+    "translationTypes": [
+      "text",
+      "audio",
+      "textures"
+    ],
+    "vendor": "gamesvoice",
+    "version": "2.2"
   },
   {
     "pageId": "dearesther",
@@ -620,9 +695,15 @@
   },
   {
     "pageId": "ghostrunner",
+    "steamId": "1139900",
     "status": "released",
-    "storeSize": "25mb",
+    "storeSize": "250mb",
     "title": "Ghostrunner",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/GUM7vsNCvddt0A",
+      "https://drive.google.com/file/d/1_jvwtCfyS_02pwgVHI7dwttt3XxdJ1_I/view",
+      "https://mega.nz/file/2M4lUIya#lgZIZTu3MH9-Ju9bcuTPjTVn8e66K1S4MX_wfpbfEvU"
+    ],
     "translationPage": "https://www.gamesvoice.ru/ghostrunner",
     "translationTypes": [
       "text",
@@ -666,12 +747,18 @@
   {
     "pageId": "raft",
     "status": "released",
-    "storeSize": "25mb",
+    "steamId": "648800",
+    "storeSize": "200mb",
     "title": "Raft",
     "translationPage": "https://www.gamesvoice.ru/raft",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/cSTgDFIcCYrcdw",
+      "https://drive.google.com/file/d/1qH8goFPvYZL0oUcVSKOdRlQ811GfFPLJ/view",
+      "https://mega.nz/file/AYwkgDzS#op8OwiMHuABJqCCf_IwVtrK1qJQUXvcwRcTUzVXHJ1c"
+    ],
     "translationTypes": [
-      "text",
-      "audio"
+      "audio",
+      "textures"
     ],
     "vendor": "gamesvoice",
     "version": "1.0"
