@@ -31,7 +31,8 @@
     "translationPage": "https://www.gamesvoice.ru/hades",
     "translationTypes": [
       "text",
-      "audio"
+      "audio",
+      "songs"
     ],
     "vendor": "gamesvoice",
     "version": ""
@@ -64,6 +65,7 @@
     "vendor": "gamesvoice",
     "version": ""
   },
+  //  end of announced
   {
     "pageId": "silenthill2",
     "status": "released",
@@ -83,7 +85,6 @@
     "vendor": "gamesvoice",
     "version": "1.0"
   },
-  //  end of announced
   {
     "pageId": "ethancarter",
     "status": "released",
@@ -214,34 +215,22 @@
     "vendor": "gamesvoice",
     "version": "1.3"
   },
-  // NON STEAM
-  // {
-  //   "pageId": "silenthill3",
-  //   "status": "released",
-  //   "storeSize": "25mb",
-  //   "steamId": "NOT_FOUND",
-  //   "title": "Silent Hill 3",
-  //   "translationPage": "https://www.gamesvoice.ru/silenthill3",
-  //   "translationLinks": [
-  //     "https://disk.yandex.ru/d/9Wdrm-nWpklnhQ",
-  //     "https://mega.nz/file/3dpRQAST#ufSBtby4fYRwCsn8UEyhbJdWvb_iqaEycOXIQKSfcVo"
-  //   ],
-  //   "translationTypes": [
-  //     "text",
-  //     "audio"
-  //   ],
-  //   "vendor": "gamesvoice",
-  //   "version": "1.0"
-  // },
   {
     "pageId": "soma",
     "status": "released",
     "storeSize": "25mb",
+    "steamId": "282140",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/nnAsLcf776ABJg",
+      "https://mega.nz/folder/9Q4kTApB#hJYdX1vCrfj7oUHne4syKw",
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=1933772369"
+    ],
     "title": "SOMA",
     "translationPage": "https://www.gamesvoice.ru/soma",
     "translationTypes": [
       "text",
-      "audio"
+      "audio",
+      "textures"
     ],
     "vendor": "gamesvoice",
     "version": "1.0"
@@ -286,13 +275,38 @@
     "version": "1.0"
   },
   {
+    "pageId": "pyre",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Pyre",
+    "steamId": "462770",
+    "translationPage": "https://www.gamesvoice.ru/pyre",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/899hHtDhCohzkw",
+      "https://drive.google.com/drive/folders/1odlL8Cz8apQuVJnxmU5PkHNi919TZIfO",
+      "https://mega.nz/folder/hZJwCIAS#yUze7T4WohxBXxuIs3XDSA"
+    ],
+    "translationTypes": [
+      "text",
+      "audio",
+      "songs"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
     "pageId": "residentevilhd",
     "status": "released",
     "storeSize": "25mb",
+    "steamId": "304240",
     "title": "Resident Evil HD Remaster",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/Bj3Di7aQBMzCqg",
+      "https://drive.google.com/file/d/1Pe07D-s6bn2yL1ylqP06Y3fpVgxqXSCl/view",
+      "https://mega.nz/file/BcAmzaYR#a7AXVe-clVp5vbQLP9GjUqFy4HFxwdPj50OFjl6IAbI"
+    ],
     "translationPage": "https://www.gamesvoice.ru/residentevilhd",
     "translationTypes": [
-      "text",
       "audio"
     ],
     "vendor": "gamesvoice",
@@ -319,20 +333,6 @@
     "vendor": "gamesvoice",
     "version": "1.0"
   },
-  // NOTICE: non steam
-  // {
-  //   "pageId": "alanwake2",
-  //   "status": "released",
-  //   "storeSize": "25mb",
-  //   "title": "Alan Wake II",
-  //   "translationPage": "https://www.gamesvoice.ru/alanwake2",
-  //   "translationTypes": [
-  //     "text",
-  //     "audio"
-  //   ],
-  //   "vendor": "gamesvoice",
-  //   "version": "1.0"
-  // },
   {
     "pageId": "swsurvivor",
     "status": "released",
@@ -391,11 +391,17 @@
     "version": "1.0"
   },
   {
-    "pageId": "panzercorps",
+    "pageId": "borderlands2",
     "status": "released",
     "storeSize": "25mb",
-    "title": "Panzer Corps",
-    "translationPage": "https://www.gamesvoice.ru/panzercorps",
+    "title": "Borderlands 2",
+    "steamId": "49520",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/7pn3QSqin3rPCQ",
+      "https://drive.google.com/file/d/1Iq96GIM_KyHLIo4Z7c2wvaKaavEk-09Q/view",
+      "https://mega.nz/file/gEZmyIhR#APWY_pAmIcLy-GoUxde3899hFVaWKjFi5FjVWeJh4x0"
+    ],
+    "translationPage": "https://www.gamesvoice.ru/borderlands2",
     "translationTypes": [
       "text",
       "audio"
@@ -405,8 +411,14 @@
   },
   {
     "pageId": "neuland",
-    "status": "released",
+    "status": "nonsupported",
     "storeSize": "25mb",
+    "steamId": "40300",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/BX345E9S3Cnn6s",
+      "https://drive.google.com/open?id=1D-_WPicU-u3f6FV0Lc391qj_4rxN9a-W",
+      "https://mega.nz/file/NAwlFSyZ#piYHgkGER-3isloqqnzfRed_TdGXMXtQ62Zj95rGeqw"
+    ],
     "title": "Risen: Neuland",
     "translationPage": "https://www.gamesvoice.ru/neuland",
     "translationTypes": [
@@ -421,7 +433,30 @@
     "status": "released",
     "storeSize": "25mb",
     "title": "Agony",
+    "steamId": "487720",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/c1RjLe4fIZcAiQ",
+      "https://drive.google.com/file/d/1sQy9SGnGgjbsRWskEKA0NhR1ZM4U03Ep/view",
+      "https://mega.nz/file/oMRnmABQ#qZgfzSmSaZnCMQAa7BvlJQHmAMsHJaooYmageVQOf2o"
+    ],
     "translationPage": "https://www.gamesvoice.ru/agony",
+    "translationTypes": [
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "darksouls3",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Dark Souls 3",
+    "translationPage": "https://www.gamesvoice.ru/darksouls3",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/nPe0lmhz3KQwey",
+      "https://drive.google.com/file/d/1LOTcDagoCP8rig5ydlNiOvdX9st60OoW/view",
+      "https://mega.nz/file/0A4XzRgC#EQmggJzIV39Aoib3sZbRmPwizYwwUqjSCGn9l2knhuA"
+    ],
     "translationTypes": [
       "text",
       "audio"
@@ -431,10 +466,16 @@
   },
   {
     "pageId": "decaythemare",
+    "steamId": "323720",
     "status": "released",
     "storeSize": "25mb",
     "title": "Decay: The Mare",
     "translationPage": "https://www.gamesvoice.ru/decaythemare",
+    "translationLinks": [
+      "https://drive.google.com/file/d/1CBbFriArJBVuy35pZigYVbgJvDt4RRoG/view",
+      "https://mega.nz/file/pVRXkIiR#l6Z1rZ3DaviWYsq0u9SLZGP2xpiTgXyJ7WxOPN8qcSo",
+      "https://disk.yandex.ru/d/J87HpbI1S74LOA"
+    ],
     "translationTypes": [
       "text",
       "audio"
@@ -481,13 +522,36 @@
     "version": "1.0"
   },
   {
+    "pageId": "Oceanhorn",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Oceanhorn",
+    "translationPage": "https://www.gamesvoice.ru/Oceanhorn",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/qccC5VShrFtFr",
+      "https://drive.google.com/file/d/1eq39uCXUfwY5n2AWjBvtNxmnXDUQSIu-/view",
+      "https://mega.nz/file/UIRR0YBQ#tOx8SvMeu2iNWv9QJNj0m8r8bkyM4DwLYbXpVyJ2APg"
+    ],
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
     "pageId": "planeta",
     "status": "released",
+    "steamId": "261530",
     "storeSize": "25mb",
     "title": "Lifeless Planet",
     "translationPage": "https://www.gamesvoice.ru/planeta",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/ea44H0jFHlel5A",
+      "https://drive.google.com/file/d/12CIioOabDb7AogNnXTIrFmjB5zXQx4Yx/view",
+      "https://mega.nz/file/sYoTxCRb#b4sMEEUhJT125UmUV13lUHEBsrXRSAt_Yk76OY9gT08"
+    ],
     "translationTypes": [
-      "text",
       "audio"
     ],
     "vendor": "gamesvoice",
@@ -551,43 +615,36 @@
     "version": "1.0"
   },
   {
-    "pageId": "codexofvictory",
-    "status": "released",
+    "pageId": "scp",
+    "status": "nonsteam",
     "storeSize": "25mb",
-    "title": "Codex of Victory",
-    "translationPage": "https://www.gamesvoice.ru/codexofvictory",
+    "title": "SCP: Containment Breach",
+    "translationPage": "https://www.gamesvoice.ru/scp",
+    "steamId": "",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/-dadhGVZ3Innmw",
+      "https://drive.google.com/file/d/1xxtqbE1K1k1dq8s7X0jPmAay0NSlLRZw/view",
+      "https://mega.nz/file/hM52AL5B#lCiHZeLUJJjhnIgQOw0x03y405TiZeOK0y8jRHNzG2E"
+    ],
     "translationTypes": [
-      "text",
+      "textures",
       "audio"
     ],
     "vendor": "gamesvoice",
     "version": "1.0"
   },
-  // {
-  //   "pageId": "scp",
-  //   "status": "released",
-  //   "storeSize": "25mb",
-  //   "title": "SCP: Containment Breach",
-  //   "translationPage": "https://www.gamesvoice.ru/scp",
-  //   "steamId": "",
-  //   "translationLinks": [
-  //     "https://disk.yandex.ru/d/-dadhGVZ3Innmw",
-  //     "https://drive.google.com/file/d/1xxtqbE1K1k1dq8s7X0jPmAay0NSlLRZw/view",
-  //     "https://mega.nz/file/hM52AL5B#lCiHZeLUJJjhnIgQOw0x03y405TiZeOK0y8jRHNzG2E"
-  //   ],
-  //   "translationTypes": [
-  //     "textures",
-  //     "audio"
-  //   ],
-  //   "vendor": "gamesvoice",
-  //   "version": "1.0"
-  // },
   {
     "pageId": "leviathan",
     "status": "released",
     "storeSize": "25mb",
     "title": "The Old City: Leviathan",
     "translationPage": "https://www.gamesvoice.ru/leviathan",
+    "steamId": "297350",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/LT5NDSWkokDwCg",
+      "https://drive.google.com/drive/u/1/folders/15oXZLCaHWPo23IvLQxNxP1SdmmQOfILq",
+      "https://mega.nz/file/MJYhwCrK#iM3N4TQWVCvgIzpaKQyZ43oZuR7hlzlsqAvB_PZSqT4"
+    ],
     "translationTypes": [
       "text",
       "audio"
@@ -620,6 +677,12 @@
     "storeSize": "25mb",
     "title": "Transistor",
     "translationPage": "https://www.gamesvoice.ru/transistor",
+    "steamId": "237930",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/jLE3t1eY3aMkpf",
+      "https://drive.google.com/drive/folders/1Ih6bqtYc9AvV8q3QDjHFpcG3JT1uEA6c",
+      "https://mega.nz/folder/ZEYhWIob#kI99DDq_NDLjo_ZxZOU_AQ"
+    ],
     "translationTypes": [
       "text",
       "audio"
@@ -633,6 +696,12 @@
     "storeSize": "25mb",
     "title": "Risen 3: Titan Lords",
     "translationPage": "https://www.gamesvoice.ru/risen3",
+    "steamId": "249230",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/wZMbsS3NDB9fmw",
+      "https://drive.google.com/file/d/1zRrOUVmLdrOSFHd2BHtQhNljr5Wq03nH/view",
+      "https://mega.nz/file/NAwlFSyZ#piYHgkGER-3isloqqnzfRed_TdGXMXtQ62Zj95rGeqw"
+    ],
     "translationTypes": [
       "text",
       "audio"
@@ -671,19 +740,6 @@
       "https://mega.nz/file/CAQ0iATL#h8d8dpJCqql8CaE4fv6yk9qcbsvniyjfWsEdUDPKTEI",
       "https://steamcommunity.com/sharedfiles/filedetails/?id=2979959298"
     ],
-    "translationTypes": [
-      "text",
-      "audio"
-    ],
-    "vendor": "gamesvoice",
-    "version": "1.0"
-  },
-  {
-    "pageId": "traceryoffate",
-    "status": "released",
-    "storeSize": "25mb",
-    "title": "Tracery of Fate",
-    "translationPage": "https://www.gamesvoice.ru/traceryoffate",
     "translationTypes": [
       "text",
       "audio"
@@ -734,7 +790,13 @@
     "status": "released",
     "storeSize": "25mb",
     "title": "Bulletstorm",
+    "steamId": "501590",
     "translationPage": "https://www.gamesvoice.ru/bulletstorm",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/1SNIVz5WJ28GFA",
+      "https://drive.google.com/file/d/1vPV0JzCZpq6R93ffotxnEMditKsi3w3S/view",
+      "https://mega.nz/file/hQxhnDCL#Pr_5r4RcLxHZqhZlFqb5fo1Cv02c_TWhBm3PTdN3MNw"
+    ],
     "translationTypes": [
       "text",
       "audio"
@@ -765,24 +827,17 @@
   {
     "pageId": "dearesther",
     "status": "released",
+    "steamId": "520720",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/qztCmFYHi2fw-w",
+      "https://drive.google.com/open?id=107aY3GXz9QHoxmV_jSKA9InIePwob00h",
+      "https://mega.nz/folder/1dwFhYgB#KQqW9HdQ6hQYz7ZULapfBw"
+    ],
     "storeSize": "25mb",
     "title": "Dear Esther",
     "translationPage": "https://www.gamesvoice.ru/dearesther",
     "translationTypes": [
-      "text",
-      "audio"
-    ],
-    "vendor": "gamesvoice",
-    "version": "1.0"
-  },
-  {
-    "pageId": "redeemer",
-    "status": "released",
-    "storeSize": "25mb",
-    "title": "Redeemer: Enhanced Edition",
-    "translationPage": "https://www.gamesvoice.ru/redeemer",
-    "translationTypes": [
-      "text",
+      "textures",
       "audio"
     ],
     "vendor": "gamesvoice",
@@ -827,19 +882,6 @@
     "version": "1.0"
   },
   {
-    "pageId": "madriders",
-    "status": "released",
-    "storeSize": "25mb",
-    "title": "Mad Riders",
-    "translationPage": "https://www.gamesvoice.ru/madriders",
-    "translationTypes": [
-      "text",
-      "audio"
-    ],
-    "vendor": "gamesvoice",
-    "version": "1.0"
-  },
-  {
     "pageId": "raft",
     "status": "released",
     "steamId": "648800",
@@ -859,14 +901,21 @@
     "version": "1.0"
   },
   {
-    "pageId": "heavyfire",
+    "pageId": "bastion",
     "status": "released",
     "storeSize": "25mb",
-    "title": "Heavy Fire: Shattered Spear",
-    "translationPage": "https://www.gamesvoice.ru/heavyfire",
+    "steamId": "107100",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/W6cl9Mb43PqHiX?w=1",
+      "https://drive.google.com/file/d/1H6oy2w9UPzE-QwT55YaCDMD72Joo7vHT/view",
+      "https://mega.nz/folder/IdQmWIKJ#PdHUglC3hfx3OixELfcCSg"
+    ],
+    "title": "Bastion",
+    "translationPage": "https://www.gamesvoice.ru/bastion",
     "translationTypes": [
       "text",
-      "audio"
+      "audio",
+      "songs"
     ],
     "vendor": "gamesvoice",
     "version": "1.0"
@@ -875,8 +924,14 @@
     "pageId": "madison",
     "status": "released",
     "storeSize": "25mb",
+    "steamId": "1670870",
     "title": "MADiSON",
     "translationPage": "https://www.gamesvoice.ru/madison",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/8w9o2xLuvGYx8w",
+      "https://drive.google.com/file/d/1YehMGQFXw1b8X0S76YUGXqHarvYYV-yY/view?usp=sharing",
+      "https://mega.nz/file/sBog1KbQ#Tll4fQqQTXOAhVP1WyQwHeB4_IVXBr_-k0Suce5d1t0"
+    ],
     "translationTypes": [
       "text",
       "audio"
@@ -888,8 +943,14 @@
     "pageId": "herstoryvhs",
     "status": "released",
     "storeSize": "25mb",
+    "steamId": "368370",
     "title": "Her Story",
     "translationPage": "https://www.gamesvoice.ru/herstoryvhs",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/elcwDlZhoAbpig",
+      "https://drive.google.com/file/d/120V7Sa-MtJfK1yu5Z--Zwq3gWUc1lwXr/view",
+      "https://mega.nz/file/dA4SiSob#RsdhUge0VnOZNeQfnpng95c2v58yUu4Cx7ogLjdhHUs"
+    ],
     "translationTypes": [
       "text",
       "audio"
@@ -936,89 +997,11 @@
     "version": "1.0"
   },
   {
-    "pageId": "immortalhunters",
-    "status": "released",
-    "storeSize": "25mb",
-    "title": "Immortal Hunters",
-    "translationPage": "https://www.gamesvoice.ru/immortalhunters",
-    "translationTypes": [
-      "text",
-      "audio"
-    ],
-    "vendor": "gamesvoice",
-    "version": "1.0"
-  },
-  {
-    "pageId": "madison",
-    "status": "released",
-    "storeSize": "25mb",
-    "title": "MADiSON",
-    "translationPage": "https://www.gamesvoice.ru/madison",
-    "translationTypes": [
-      "text",
-      "audio"
-    ],
-    "vendor": "gamesvoice",
-    "version": "1.0"
-  },
-  {
-    "pageId": "herstoryvhs",
-    "status": "released",
-    "storeSize": "25mb",
-    "title": "Her Story",
-    "translationPage": "https://www.gamesvoice.ru/herstoryvhs",
-    "translationTypes": [
-      "text",
-      "audio"
-    ],
-    "vendor": "gamesvoice",
-    "version": "1.0"
-  },
-  {
     "pageId": "subnautica",
     "status": "released",
     "storeSize": "25mb",
     "title": "Subnautica",
     "translationPage": "https://www.gamesvoice.ru/subnautica",
-    "translationTypes": [
-      "text",
-      "audio"
-    ],
-    "vendor": "gamesvoice",
-    "version": "1.0"
-  },
-  {
-    "pageId": "re3",
-    "status": "released",
-    "storeSize": "25mb",
-    "title": "Resident Evil 3",
-    "translationPage": "https://www.gamesvoice.ru/re3",
-    "translationTypes": [
-      "text",
-      "audio"
-    ],
-    "vendor": "gamesvoice",
-    "version": "1.0"
-  },
-  {
-    "pageId": "immortalhunters",
-    "status": "released",
-    "storeSize": "25mb",
-    "title": "Immortal Hunters",
-    "translationPage": "https://www.gamesvoice.ru/immortalhunters",
-    "translationTypes": [
-      "text",
-      "audio"
-    ],
-    "vendor": "gamesvoice",
-    "version": "1.0"
-  },
-  {
-    "pageId": "voidtrain",
-    "status": "released",
-    "storeSize": "25mb",
-    "title": "VoidTrain",
-    "translationPage": "https://www.gamesvoice.ru/voidtrain",
     "translationTypes": [
       "text",
       "audio"
