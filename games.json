@@ -1,27 +1,4 @@
 [
-  // bioshock infinite
-  // the wolf among us
-  // persona 5
-  // life is strange original
-  // https://mechanicsvoiceover.ru/library
-  // https://tolma4team.com/ (ну эти типа офицалы)
-  // https://www.gamesvoice.ru/
-  // https://cool-games.info/rus
-  // "options": [{
-  //   "type": "chooseOne",
-  //   "items": [
-  //     "Локализация звука для Vanishing of Ethan Carter",
-  //     "Локализация звука для Vanishing of Ethan Carter Redux",
-  //     "Локализация звука для Vanishing of Ethan Carter Redux VR"
-  //   ]
-  // }],
-  // Учесть что статус установленной озвучки может быть
-  // development released outdated
-  // Надо понимать, что после перечитывания файлов или обновления, возможно что озвучка сломается, и ее надо будет переустановить
-  // Также озвучка может выйти новой версии, к бд это отношения не имеет
-  // Имя файла должно быть
-  // steamId-vendor-version.zip
-  // start of announced
   {
     "pageId": "hades",
     "status": "announced",
@@ -65,7 +42,6 @@
     "vendor": "gamesvoice",
     "version": ""
   },
-  //  end of announced
   {
     "pageId": "silenthill2",
     "status": "released",
