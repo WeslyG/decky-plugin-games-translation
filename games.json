@@ -66,17 +66,22 @@
   },
   {
     "pageId": "silenthill2",
-    "status": "announced",
-    "storeSize": "",
+    "status": "released",
+    "storeSize": "170mb",
+    "steamId": "2124490",
     "title": "Silent Hill 2",
-    "translationLinks": [],
+    "translationLinks": [
+      "https://disk.yandex.ru/d/x5VOkDRQ19zRiQ",
+      "https://drive.google.com/file/d/1ZGQCzNmNScfMVhL0V1-kgOgU7lk9MCME/view",
+      "https://cloud.mail.ru/public/nxdC/39WtLwHSS"
+    ],
     "translationPage": "https://www.gamesvoice.ru/silenthill2",
     "translationTypes": [
       "text",
       "audio"
     ],
     "vendor": "gamesvoice",
-    "version": ""
+    "version": "1.0"
   },
   //  end of announced
   {
@@ -261,6 +266,26 @@
     "version": "1.0"
   },
   {
+    "pageId": "control",
+    "status": "released",
+    "storeSize": "25mb",
+    "title": "Control",
+    "steamId": "870780",
+    "translationPage": "https://www.gamesvoice.ru/control",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/FU_T0hAABkchzg",
+      "https://drive.google.com/drive/folders/1iBdHJzlAeTQviY6_I1cl0oPoXeHCSffI",
+      "https://cloud.mail.ru/public/UXTe/6n2sov4vG"
+    ],
+    "translationTypes": [
+      "text",
+      "audio",
+      "songs"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
     "pageId": "residentevilhd",
     "status": "released",
     "storeSize": "25mb",
@@ -276,12 +301,20 @@
   {
     "pageId": "alanwake",
     "status": "released",
+    "steamId": "108710",
     "storeSize": "25mb",
     "title": "Alan Wake",
     "translationPage": "https://www.gamesvoice.ru/alanwake",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/IbM4DhT4T2tnIQ",
+      "https://drive.google.com/drive/folders/1iZgzZFVC5jiv9uU5N5_RWswDLa0WuzGp",
+      "https://mega.nz/folder/0d4ngY4a#aJab-NSwe1irepGnC2mcuQ"
+    ],
     "translationTypes": [
       "text",
-      "audio"
+      "audio",
+      "textures",
+      "songs"
     ],
     "vendor": "gamesvoice",
     "version": "1.0"
@@ -304,7 +337,7 @@
     "pageId": "swsurvivor",
     "status": "released",
     "steamId": "1774580",
-    "storeSize": "25mb",
+    "storeSize": "1.2gb",
     "title": "Star Wars Jedi: Survivor",
     "translationLinks": [
       "https://disk.yandex.ru/d/ZFKBJ-RmiEoEEw",
@@ -412,11 +445,17 @@
   {
     "pageId": "americannightmare",
     "status": "released",
+    "steamId": "202750",
     "storeSize": "25mb",
     "title": "Alan Wake’s American Nightmare",
     "translationPage": "https://www.gamesvoice.ru/americannightmare",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/D2IYPzOBUtEppQ",
+      "https://mega.nz/file/VYIQSa7b#9emOw6EeSc1b6rELWvN39wlk3ujsn5OACwWqJWdyuJs"
+    ],
     "translationTypes": [
       "text",
+      "textures",
       "audio"
     ],
     "vendor": "gamesvoice",
@@ -457,9 +496,34 @@
   {
     "pageId": "daylight",
     "status": "released",
+    "steamId": "230840",
     "storeSize": "25mb",
     "title": "Daylight",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/lVC-z-G04rP4bg",
+      "https://drive.google.com/file/d/1C_hoJ-PiXYClrZx4ILIZLFyiuSUNMRbl/view",
+      "https://mega.nz/file/URJxySjb#p6uJBR-CUOb3fuGCiB6vSKq7ujPq9ykgfsAO_11r9Ug"
+    ],
     "translationPage": "https://www.gamesvoice.ru/daylight",
+    "translationTypes": [
+      "text",
+      "audio"
+    ],
+    "vendor": "gamesvoice",
+    "version": "1.0"
+  },
+  {
+    "pageId": "rev",
+    "status": "released",
+    "steamId": "222480",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/qXSwwomInMpb9Q",
+      "https://drive.google.com/file/d/1YHAfoS2GQ8GHSJC34v0YEt1jXhtAY_BF/view",
+      "https://mega.nz/file/4UwhFIJZ#4PUkCpS2DJ4i4Lqkea0phIR0x1JxpuxA6DXYvEyS3Zo"
+    ],
+    "storeSize": "25mb",
+    "title": "Resident Evil: Revelations",
+    "translationPage": "https://www.gamesvoice.ru/rev",
     "translationTypes": [
       "text",
       "audio"
@@ -471,8 +535,14 @@
     "pageId": "rev2",
     "status": "released",
     "storeSize": "25mb",
+    "steamId": "287290",
     "title": "Resident Evil: Revelations 2",
     "translationPage": "https://www.gamesvoice.ru/rev2",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/z3sOhjyjdEWfFg",
+      "https://drive.google.com/file/d/1cadVXyd1lv0aVkB8adRj2C2jxJ2OKw-p/view",
+      "https://mega.nz/file/kB5xzKQa#AQJv9d2fO944iHSd5lriiIPwC2qSZbZhhVMrXc-3a0s"
+    ],
     "translationTypes": [
       "text",
       "audio"
@@ -493,6 +563,25 @@
     "vendor": "gamesvoice",
     "version": "1.0"
   },
+  // {
+  //   "pageId": "scp",
+  //   "status": "released",
+  //   "storeSize": "25mb",
+  //   "title": "SCP: Containment Breach",
+  //   "translationPage": "https://www.gamesvoice.ru/scp",
+  //   "steamId": "",
+  //   "translationLinks": [
+  //     "https://disk.yandex.ru/d/-dadhGVZ3Innmw",
+  //     "https://drive.google.com/file/d/1xxtqbE1K1k1dq8s7X0jPmAay0NSlLRZw/view",
+  //     "https://mega.nz/file/hM52AL5B#lCiHZeLUJJjhnIgQOw0x03y405TiZeOK0y8jRHNzG2E"
+  //   ],
+  //   "translationTypes": [
+  //     "textures",
+  //     "audio"
+  //   ],
+  //   "vendor": "gamesvoice",
+  //   "version": "1.0"
+  // },
   {
     "pageId": "leviathan",
     "status": "released",
@@ -509,9 +598,15 @@
   {
     "pageId": "belowzero",
     "status": "released",
+    "steamId": "848450",
     "storeSize": "25mb",
     "title": "Subnautica: Below Zero",
     "translationPage": "https://www.gamesvoice.ru/belowzero",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/FHUpoTzw505_Pg",
+      "https://drive.google.com/file/d/1ltXEKup6WsEduj8MgjseZTZa9GfD5_Gu/view",
+      "https://mega.nz/file/UMggAbJI#2cDuvCRkJuI38xGshsw8hw-oYlEXToMYWPaq5aA_Ziw"
+    ],
     "translationTypes": [
       "text",
       "audio"
@@ -552,7 +647,7 @@
     "steamId": "214250",
     "title": "I am Alive",
     "translationPage": "https://www.gamesvoice.ru/iamalive",
-    "translationLinks" :[
+    "translationLinks": [
       "https://disk.yandex.ru/d/V-l-piEOTCWcew",
       "https://drive.google.com/file/d/1rjW9IMEnn8IT8gAu51fB3GTFMdBQP72Y/view",
       "https://mega.nz/file/eUwHEKrT#qiWeVKalIdbagAS9Hp3TF6Cw9PuWxXUVWhd-zD9tGHE"
@@ -805,8 +900,14 @@
   {
     "pageId": "subnautica",
     "status": "released",
-    "storeSize": "25mb",
+    "steamId": "264710",
+    "storeSize": "250mb",
     "title": "Subnautica",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/zDZsU8wOtksGhw",
+      "https://drive.google.com/drive/folders/1lFy7dawuYBNPE_1OvVdzikF76vvBW8wU",
+      "https://mega.nz/folder/wMJXmKha#xqSMLgNS4QMnm8kBXpsZbg"
+    ],
     "translationPage": "https://www.gamesvoice.ru/subnautica",
     "translationTypes": [
       "text",
@@ -818,9 +919,15 @@
   {
     "pageId": "re3",
     "status": "released",
+    "steamId": "952060",
     "storeSize": "25mb",
     "title": "Resident Evil 3",
     "translationPage": "https://www.gamesvoice.ru/re3",
+    "translationLinks": [
+      "https://disk.yandex.ru/d/JY8asZDdGxZ4_A",
+      "https://drive.google.com/file/d/13GANMq_8KWFEh9M8Oo4kKhupIyqmzCDo/view",
+      "https://mega.nz/file/CN4SWIbD#4c4ej3gqz6Nx9r2b_BRE3e6KUIGja3wb4iteTqcB46s"
+    ],
     "translationTypes": [
       "text",
       "audio"
@@ -834,19 +941,6 @@
     "storeSize": "25mb",
     "title": "Immortal Hunters",
     "translationPage": "https://www.gamesvoice.ru/immortalhunters",
-    "translationTypes": [
-      "text",
-      "audio"
-    ],
-    "vendor": "gamesvoice",
-    "version": "1.0"
-  },
-  {
-    "pageId": "voidtrain",
-    "status": "released",
-    "storeSize": "25mb",
-    "title": "VoidTrain",
-    "translationPage": "https://www.gamesvoice.ru/voidtrain",
     "translationTypes": [
       "text",
       "audio"
